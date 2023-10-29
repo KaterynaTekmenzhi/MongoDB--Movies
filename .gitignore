@@ -1,0 +1,3 @@
+{
+    "mongodb": "mongodb+srv://... here is where I put my MongoDB connection string ..."
+}
