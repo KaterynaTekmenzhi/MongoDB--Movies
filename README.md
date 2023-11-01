@@ -27,7 +27,7 @@
   ```
   with open(r'C:\Users\kater\anaconda3\MongoDB--Movies\Credentials.json') as f:
   ```
-  
+
   6. Make sure to install the following libraries before running your code 
 
   ```pip install pymongo ```
@@ -44,9 +44,9 @@
 
   ```pip install regex```
 
-  3. Run your code to visualize charts of the same data (Budget and Runtime against the 2015 Release Date)
+  7. Run your code to visualize charts of the same data (Budget and Runtime against the 2015 Release Date)
 
-  4. Note... Code runs in Python version 3.12
+  8. Note... Code runs in Python version 3.12
 
   ## Author
   Kateryna Tekmenzhi
